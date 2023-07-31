@@ -1,0 +1,22 @@
+.delbtn{
+    padding: 5px 10px ;
+    border-radius: 10px;
+    color: white;
+    transition: .2s linear;
+    background: #0B63F6;
+    display: flex;
+}
+.delbtn:hover {
+    box-shadow: 0 0 0 2px white, 0 0 0 4px #3C82F8;
+}
+.textList{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding-top: 20px;
+    margin-right: 20px;
+    
+}
+.list{
+    margin-left: 20px;
+}
