@@ -1,0 +1,14 @@
+.textfilter{
+margin-left: 20px;
+}
+.inputfilter{
+    margin-left: 20px;
+    margin-top: 10px;
+width: 400px;
+border-radius: 4px;
+}
+.filterbox{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
