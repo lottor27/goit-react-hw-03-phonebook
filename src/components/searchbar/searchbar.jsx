@@ -25,7 +25,8 @@ class Searchbar extends Component {
         this.setState({ searchQueryOriginal: '' });
     }
  
-
+  
+    
     render() {
         return (
             <header className="Searchbar" >
